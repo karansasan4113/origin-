@@ -1,0 +1,1 @@
+{"name":"Local: linkedlist_detection_and_removal_of_cycle","url":"/Users/karansasan4113/C++/linkedlist_detection_and_removal_of_cycle.cpp","tests":[{"id":1665813861840,"input":"8\n1 2 3 4 5 6 7 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/karansasan4113/C++/linkedlist_detection_and_removal_of_cycle.cpp","group":"local","local":true}
